@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @xavierfourrage
-OSIsoft PI System Specialist. Programming using the AF SDK and PI WebAPI frameworks.
+👋 Hi, I’m @xavierfourrage, OSIsoft PI System Sr Specialist. Developping applications using the AF SDK and PI WebAPI frameworks.
 - AF SDK applications
-- Connecting your data to OSIsoft Cloud Services (OCS)
+- Custom utilities for bulk edits in PI
+- Apps to send data to OSIsoft Cloud Services (OCS)
 - PI Vision custom symbols
 - ...
 
