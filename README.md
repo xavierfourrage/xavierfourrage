@@ -7,7 +7,7 @@ Welcome to my GitHub page! I'm an OSIsoft/Aveva PI System Sr Specialist, passion
 - 🌐 ASP.Net Web Apps (MVC)
 - 📚 AF SDK or PI WebAPI Apps
 - 🎨 PI Vision Custom Symbols
-- ⚙️ Custom PI System Utilities (Bulk Edits, Read/Write Values to PI, etc.)
+- ⚙️ Custom Utilities (Bulk Edits, Read/Write Values to PI, etc.)
 - ☁️ Apps to Send Data to OSIsoft Cloud Services (OCS)
 - ...
 
@@ -19,4 +19,4 @@ You can reach me at:
 
 Feel free to explore my repositories and projects. If you have any questions or suggestions, don't hesitate to reach out. Let's connect and collaborate on exciting software development endeavors!
 
-Happy coding! 😄
+Happy coding!
