@@ -1,14 +1,22 @@
-👋 Hi, I’m @xavierfourrage, OSIsoft/Aveva PI System Sr Specialist. Developping applications using the AF SDK and PI WebAPI frameworks. Knowledgable in C#, Angular, ts, html/css
-- ASP.Net Web apps (MVC)
-- AF SDK or PIWebAPI apps
-- PI Vision custom symbols
-- Custom PI System utilities (bulk edits, read/write values to PI, etc)
-- Apps to send data to OSIsoft Cloud Services (OCS)
+# 👋 Hi there, I'm Xavier Fourrage!
+
+Welcome to my GitHub page! I'm an OSIsoft/Aveva PI System Sr Specialist, passionate about developing applications using the AF SDK and PI WebAPI frameworks. My skills range from C# and Angular to TypeScript, HTML, and CSS.
+
+## What I Do
+
+- 🌐 ASP.Net Web Apps (MVC)
+- 📚 AF SDK or PI WebAPI Apps
+- 🎨 PI Vision Custom Symbols
+- ⚙️ Custom PI System Utilities (Bulk Edits, Read/Write Values to PI, etc.)
+- ☁️ Apps to Send Data to OSIsoft Cloud Services (OCS)
 - ...
 
-You can reach me at xavierfourrage@hotmail.com
+## Connect with Me
 
-<!---
-xavierfourrage/xavierfourrage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can reach me at:
+📧 Email: xavierfourrage@hotmail.com
+📱 LinkedIn: [Xavier Fourrage](https://www.linkedin.com/in/xavierfourrage/)
+
+Feel free to explore my repositories and projects. If you have any questions or suggestions, don't hesitate to reach out. Let's connect and collaborate on exciting software development endeavors!
+
+Happy coding! 😄
