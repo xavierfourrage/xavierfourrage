@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Xavier Fourrage!
 
-Welcome to my GitHub page! I'm an OSIsoft/Aveva PI System Sr Specialist, passionate about developing applications using the AF SDK and PI WebAPI frameworks. My skills range from C# and Angular to TypeScript, HTML, and CSS.
+Welcome to my GitHub page, I'm an OSIsoft/Aveva PI System Sr Specialist, passionate about developing applications using the AF SDK and PI WebAPI frameworks. My skills range from C# and Angular to TypeScript, HTML, and CSS.
 
 ## What I Do
 
@@ -17,6 +17,6 @@ You can reach me at:
 📧 Email: xavierfourrage@hotmail.com
 📱 LinkedIn: [Xavier Fourrage](https://www.linkedin.com/in/xavierfourrage/)
 
-Feel free to explore my repositories and projects. If you have any questions or suggestions, don't hesitate to reach out. Let's connect and collaborate on exciting software development endeavors!
+Feel free to explore my public repositories. If you have any questions or suggestions, don't hesitate to reach out. Let's connect and collaborate on exciting software development endeavors!
 
-Happy coding!
+Happy coding :)
