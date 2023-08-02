@@ -17,6 +17,4 @@ You can reach me at:
 📧 Email: xavierfourrage@hotmail.com
 📱 LinkedIn: [Xavier Fourrage](https://www.linkedin.com/in/xavierfourrage/)
 
-Feel free to explore my public repositories. If you have any questions or suggestions, don't hesitate to reach out. Let's connect and collaborate on exciting software development endeavors!
-
-Happy coding :)
+Feel free to explore my public repositories. If you have any questions or suggestions, don't hesitate to reach out. Let's connect and collaborate on exciting software development endeavors :)
